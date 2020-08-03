@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**janjulius/janjulius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Currently working on
+Games for my startup [Contemplating Chimp][contchimp]
 
-Here are some ideas to get you started:
+### Notable previous projects
+[Cold rain][coldrain] 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Thwamp][fl2019vid] (private repository's) consists of: client, server, patcher and website
+
+### Work
+[<img align="left" alt="ChipSoft" width="26px" src="https://www.chipsoft.nl/SiteCollectionImages/Chipsoft/svg/Logo%20ChipSoft-white.svg" />][chipsoftweb]
+[<img align="left" alt="Tres" width="26px" src="https://tres.nl/wp-content/themes/tres-internet-wordpress/assets/images/logo-white.png" />][tresweb]
+
+[![janjulius's github stats](https://github-readme-stats.vercel.app/api?username=janjulius)](https://github.com/anuraghazra/github-readme-stats)
+
+[contchimp]:https://github.com/Contemplating-Chimp
+[coldrain]:https://github.com/janjulius/cold-rain-unity
+[fl2019vid]:https://www.youtube.com/watch?v=fK5qNvPEcDA&feature=youtu.be
+[chipsoftweb]:https://www.chipsoft.nl/
+[tresweb]:https://www.tres.nl/
+
