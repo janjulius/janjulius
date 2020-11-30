@@ -1,5 +1,5 @@
 ### Currently working on
-Games for my startup [Contemplating Chimp][contchimp]
+Games for my startup [Contemplating Chimps][contchimp]
 
 [contchimp]:https://github.com/Contemplating-Chimp
 [coldrain]:https://github.com/janjulius/cold-rain-unity
